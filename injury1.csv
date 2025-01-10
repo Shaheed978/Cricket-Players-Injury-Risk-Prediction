@@ -1,0 +1,11 @@
+Player_ID,Age,Role,Match_Load,Training_Load,Previous_Injury,Injury_Type,Fatigue_Level,Environmental_Factor,BMI,Experience_Level,Diet_Quality,Hydration_Level,Recovery_Time,Injury_Severity,Injury_Risk
+1,28,Batsman,10,20,Yes,Hamstring,6,Hot,24.5,8,Good,8,3,Minor,High
+2,24,Bowler,12,25,No,,4,Humid,23.1,4,Average,6,4,None,Medium
+3,30,All-rounder,8,15,Yes,Shoulder,7,Cold,25.8,10,Good,7,2,Severe,High
+4,26,Wicketkeeper,9,22,No,,5,Humid,22.4,6,Average,5,5,None,Low
+5,22,Bowler,15,30,Yes,Back,8,Hot,26.7,3,Poor,9,3,Severe,High
+6,27,Batsman,7,18,No,,3,Cold,23.9,7,Good,7,4,None,Low
+7,29,All-rounder,11,28,Yes,Hamstring,9,Hot,24.0,9,Good,8,2,Minor,High
+8,23,Bowler,14,24,No,,4,Humid,23.2,5,Average,6,4,None,Medium
+9,31,Wicketkeeper,10,20,Yes,Ankle,6,Cold,25.1,11,Good,7,3,Minor,Medium
+10,25,Batsman,9,19,No,,5,Hot,24.8,6,Average,5,5,None,Low
